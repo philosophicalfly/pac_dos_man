@@ -1,6 +1,6 @@
 # PAC-DOS-MAN
 
-##DEFINIÇÕES:
+## DEFINIÇÕES:
 
 ### Estruturas utilizadas:  
 
@@ -12,7 +12,7 @@ Contém as posições x e y atuais do pacman, as posições x e y iniciais do pa
 
 Contém as posições x e y atuais de um fantasma, as posições x e y iniciais de um fantasma, uma flag se ele está vivo ou morto, e a última ação realizada pelo mesmo.
 
-###Funções utilizadas: 
+### Funções utilizadas: 
 
 - int Find_Ghost_Qtd
 
@@ -100,7 +100,6 @@ A função move os 5 fantasmas visualmente de acordo com a posição em que o pa
 Recebe: Inteiro.
 
 A função retorna o módulo de um valor X recebido.
-
 
 - void Pause_Game
 
